@@ -1,5 +1,5 @@
 # NL_Patcher
-![version](https://img.shields.io/badge/version%20-%202.0%20-%20green)
+![version](https://img.shields.io/github/v/release/funnysoft24/NL_Patcher)
 ![last_commit](https://img.shields.io/github/last-commit/funnysoft24/NL_Patcher)
 
 This batch script allows you to either download the latest version of [NetLimiter](https://www.netlimiter.com/) by **Locktime Software** and patch it, or simply patch the version that you already have installed, if compatible.
