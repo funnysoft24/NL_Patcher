@@ -6,8 +6,9 @@ This batch script allows you to either download the latest version of [NetLimite
 
 The script downloads the original installer and the patched DLL, from the original website and from this repo respectively, and patches the software by simply swapping the original DLL with the modified one.
 
-[VirusTotal](https://www.virustotal.com/gui/file/bef92212093f9577a1e5f8c4270ac728ead7789264acb780b00faf3a8655080f?nocache=1)
+[VirusTotal](https://www.virustotal.com/gui/file/d4e17b0c0295fa116782efa6acf1aed4102b051ee00f03fcb748574b1a1c8bec?nocache=1)
 
-[Hybrid Analysis](https://hybrid-analysis.com/sample/bef92212093f9577a1e5f8c4270ac728ead7789264acb780b00faf3a8655080f)
+[Hybrid Analysis](https://hybrid-analysis.com/sample/d4e17b0c0295fa116782efa6acf1aed4102b051ee00f03fcb748574b1a1c8bec)
 
-![screen](https://github.com/funnysoft24/NL_Patcher/assets/158505690/2be5aaf3-97f8-4ef0-ba59-52b3e7a2f366)
+![screen](https://github.com/funnysoft24/NL_Patcher/assets/158505690/5b4cf314-0a01-49cb-a39b-696162613ec9)
+
